@@ -1,1 +1,3 @@
 Install 1C within the script with this repository https://github.com/Dragonim/1C8InstallAndUninstall 
+
+Script example powershell "\\Server\1CDistr\1C8InstallAndUninstall.ps1" -dd '\\Server\1CDistr' -dl '\\Server\1CLog' -ip 'last' -dp 'ael' -iod 'DESIGNERALLCLIENTS=1 THINCLIENT=1 THINCLIENTFILE=1'
